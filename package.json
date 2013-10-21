@@ -17,6 +17,9 @@
   "readmeFilename": "README.md",
   "main": "index.js",
   "dependencies": {
+    "request": "~2.27.0",
+    "q": "~0.9.7",
+    "underscore": "~1.4.4"
   },
   "devDependencies": {
     "mocha": "*",
