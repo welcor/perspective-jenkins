@@ -1,13 +1,13 @@
 {
-  "name": "perspective-api-jenkins",
+  "name": "perspective-jenkins",
   "version": "0.0.1",
   "description": "",
   "bugs": {
-    "url": "http://github.com/perspective/perspective-api-jenkins/issues"
+    "url": "http://github.com/perspective/perspective-jenkins/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/perspective/perspective-api-jenkins.git"
+    "url": "git://github.com/perspective/perspective-jenkins.git"
   },
   "contributors":[
     "Hans Magnus Inderberg <hinderberg@gmail.com> (http://hinderberg.no/)",
@@ -17,6 +17,10 @@
   "readmeFilename": "README.md",
   "main": "index.js",
   "dependencies": {
+    "perspective-core": "*",
+    "perspective-core-server": "*",
+    "perspective-core-rest": "*",
+    "perspective-core-web-socket": "*",
     "request": "~2.27.0",
     "q": "~0.9.7",
     "underscore": "~1.4.4"

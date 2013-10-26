@@ -1,0 +1,1 @@
+ SERVER_PORT=8888 JENKINS_USERNAME="hei" JENKINS_URL="http://localhost:9999" SERVER_ALLOWED_ORIGIN="http://localhost:8000" node index.js
