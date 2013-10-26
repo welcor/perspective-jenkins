@@ -1,6 +1,5 @@
-perspective-api-jenkins
+perspective-jenkins
 ==================
-
 
 License
 -------
