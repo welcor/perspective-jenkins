@@ -26,8 +26,8 @@
     "underscore": "~1.4.4"
   },
   "devDependencies": {
-    "mocha": "*",
-    "should": "*",
-    "sinon": "*"
+    "mocha": "~1.14.0",
+    "should": "~2.0.2",
+    "sinon": "~1.7.3"
   }
 }
